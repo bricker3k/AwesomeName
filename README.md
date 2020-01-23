@@ -28,4 +28,4 @@ Our intent on this project is to analysis data on the rise or decline on HIV/AID
 ## The Plan
 1. Group by Age to show the Mean Count of the group mostly affected by HIV/AIDs 
 2. Look at the Sum of the year that had the highest impact in HIV/AID cases
-3. Provide the main reasons that HIV/AIDs was contacted during 2011-2017
+3. Provide the main reasons that HIV/AIDs was contracted during 2011-2017
