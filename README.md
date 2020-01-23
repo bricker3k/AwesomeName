@@ -14,7 +14,7 @@ Awesome Project
 
 
 ## Impact and Intended Results
-The AIDs/HIV virus has been a major topic in America for many years. Scientist and Doctors have developed ways to manage this by creating medicines and prevention tools over the last 10 years.  
+The AIDs/HIV virus has been a major topic in America for many years. Scientist and Doctors have developed ways to manage this by creating medicines and prevention tools also known as PrEP over the last 10 years.  
 Our intent on this project is to analysis data on the rise or decline on HIV/AIDs in America by covering these questions:
 - What age group is mostly affect? 
 - What are the counts by 2011-2017?
