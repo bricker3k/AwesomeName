@@ -18,8 +18,8 @@ The AIDs/HIV virus has been a major topic in America for many years. The HIV/AID
 Our intent on this project is to analysis data on the rise or decline on HIV/AIDs in America by covering these questions:
 - What age group is mostly affect? 
 - What are the counts by 2011-2017?
-- Whawt are the reasons people contract HIV/AIDS? 
-- What race/ethicity is most affected the most by HIV/AIDS?
+- What are the reasons people contract HIV/AIDS? 
+- What race/ethicity is mostly affected the most by HIV/AIDS from 2011-2017?
 - What gender(Men or Women) are mostly affected? 
 - How many deaths per year came from HIV/AIDs in America? 
 - What state experiences the highest death rate per year? 
